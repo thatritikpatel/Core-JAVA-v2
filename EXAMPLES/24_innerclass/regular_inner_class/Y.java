@@ -1,0 +1,4 @@
+interface Y{
+	class E{
+	}
+}
